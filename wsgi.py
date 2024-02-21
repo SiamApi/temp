@@ -1,4 +1,4 @@
-from siam import siam
+from siam import app 
 
 if __name__ == "__main__":
     app.run()
